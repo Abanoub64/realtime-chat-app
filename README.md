@@ -19,3 +19,14 @@ A complete end-to-end chat platform featuring a modern UI, secure authentication
 - 🌐 **Easy Deployment**, compatible with free tiers
 
 ---
+
+## 🌐 Live Demo
+
+🔗 **Try the live application here:**  
+**https://vercel.com/abanoub64s-projects/realtime-chat-app**
+
+> ⚠️ **Note:**  
+> The backend is hosted on a free Render plan, so the **first request may take a few seconds** while the server wakes up.  
+> Once active, the app responds normally.
+
+---
