@@ -23,7 +23,7 @@ A complete end-to-end chat platform featuring a modern UI, secure authentication
 ## 🌐 Live Demo
 
 🔗 **Try the live application here:**  
-**https://vercel.com/abanoub64s-projects/realtime-chat-app**
+**https://realtime-chat-app-five-zeta.vercel.app/**
 
 > ⚠️ **Note:**  
 > The backend is hosted on a free Render plan, so the **first request may take a few seconds** while the server wakes up.  
